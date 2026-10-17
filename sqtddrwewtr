@@ -1,0 +1,41 @@
+    <!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Table - Colspan</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            margin: 40px;
+        }
+
+        .container {
+            border: 2px solid #666;
+            padding: 20px;
+            width: 900px;
+        }
+
+        h1 {
+            color: #444;
+        }
+
+        p {
+            font-size: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            p
+        }
+
+        th {
+            text-align: center;
+        }
+
+</body>
+</html>
