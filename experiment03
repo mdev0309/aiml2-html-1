@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>table</title>
+</head>
+<body><fieldset>
+    <table border="10" align="center">
+        <caption>creating time table</caption>
+        <tr>
+            <th>day/time</th>
+            <th>9:00-10:00</th>
+            <th>10:00-11:00</th>
+            <th>11:00-12:00</th>
+            <th>12:00-1:00</th>
+            <th>1:00-2:00</th>
+            <th>2:00-3:00</th>
+            <th>3:00-4:00</th>
+        </tr>
+        <tr>
+            <th>MONDAY</th>
+            <td rowspan="2">Mathematics</td>
+            <td>Englis</td>
+            <td rowspan="3">Physics</td>
+            <td><b>BREAK</b></td>
+            <td colspan="2">computer lab</td>
+            <td>Physics</td>
+        </tr>
+        <tr>
+            <th>TUESDAY</th>
+            <td>c programming</td>
+            <td><B>BREAK</B></td>
+            <td colspan="2">electronic lab</td>
+            <td>library</td>
+        </tr>
+        <tr>
+            <th>WEDNESDAY</th>
+            <td>Mathematics</td>
+            <td>English</td>
+            <td><b>BREAK</b></td>
+            <td>computer network</td>
+            <td colspan="2">
+                <table border="5"><caption>lab details</caption>
+                       <tr>
+                        <td>batch1</td>
+                        <td>batch2</td>
+                       </tr>
+                       <tr>
+                        <td>batch3</td>
+                        <td>batch4</td>
+                       </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <th>THURSDAY</th>
+            <td colspan="2">Workshop</td>
+            <td>physics</td>
+            <td><b>BREAK</b></td>
+            <td>Mathematics</td>
+            <td>English</td>
+            <td>c++</td>
+        </tr>
+        <tr>
+            <th>FRIDAY</th>
+            <td>computer networks</td>
+            <td>english</td>
+            <td>physics</td>
+            <td><b>BREAK</b></td>
+            <td cospan="3">Physics lab</td>
+        </tr>
+
+    </table></fieldset>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>table</title>
+</head>
+<body><fieldset>
+    <table border="10" align="center">
+        <caption>creating time table</caption>
+        <tr>
+            <th>day/time</th>
+            <th>9:00-10:00</th>
+            <th>10:00-11:00</th>
+            <th>11:00-12:00</th>
+            <th>12:00-1:00</th>
+            <th>1:00-2:00</th>
+            <th>2:00-3:00</th>
+            <th>3:00-4:00</th>
+        </tr>
+        <tr>
+            <th>MONDAY</th>
+            <td rowspan="2">Mathematics</td>
+            <td>Englis</td>
+            <td rowspan="3">Physics</td>
+            <td><b>BREAK</b></td>
+            <td colspan="2">computer lab</td>
+            <td>Physics</td>
+        </tr>
+        <tr>
+            <th>TUESDAY</th>
+            <td>c programming</td>
+            <td><B>BREAK</B></td>
+            <td colspan="2">electronic lab</td>
+            <td>library</td>
+        </tr>
+        <tr>
+            <th>WEDNESDAY</th>
+            <td>Mathematics</td>
+            <td>English</td>
+            <td><b>BREAK</b></td>
+            <td>computer network</td>
+            <td colspan="2">
+                <table border="5"><caption>lab details</caption>
+                       <tr>
+                        <td>batch1</td>
+                        <td>batch2</td>
+                       </tr>
+                       <tr>
+                        <td>batch3</td>
+                        <td>batch4</td>
+                       </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <th>THURSDAY</th>
+            <td colspan="2">Workshop</td>
+            <td>physics</td>
+            <td><b>BREAK</b></td>
+            <td>Mathematics</td>
+            <td>English</td>
+            <td>c++</td>
+        </tr>
+        <tr>
+            <th>FRIDAY</th>
+            <td>computer networks</td>
+            <td>english</td>
+            <td>physics</td>
+            <td><b>BREAK</b></td>
+            <td cospan="3">Physics lab</td>
+        </tr>
+
+    </table></fieldset>
+</body>
+</html>
