@@ -30,12 +30,14 @@
 
         th, td {
             border: 1px solid black;
-            p
         }
 
         th {
-            text-align: center;
+              text-align:     center;
         }
 
+</style>
+</head>
+<body>
 </body>
 </html>
